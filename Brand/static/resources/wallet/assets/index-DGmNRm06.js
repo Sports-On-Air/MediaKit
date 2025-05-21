@@ -110,8 +110,6 @@ import{u as k,w as C,y as $,i as f,r as y,a as d,x as s,O as a,h as R}from"./ind
           gap="xs"
           .padding=${["0","0","l","0"]}
         >
-          <wui-text variant="small-500" color="fg-100"> UX by </wui-text>
-          <wui-icon name="reown" size="xxxl" class="reown-logo"></wui-icon>
         </wui-flex>
       </a>
     `}};g.styles=[y,R,W];g=B([b("wui-ux-by-reown")],g);const D=f`
